@@ -12,6 +12,7 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
   weight: "100 900",
 });
+/*
 const architypeStedelijk = localFont({
   src: "./fonts/ArchitypeStedelijk.woff",
   variable: "--font-architype-stedelijk",
@@ -22,6 +23,7 @@ const cyGroteskWide = localFont({
   variable: "--font-cy-grotesk-wide",
   weight: "100 900",
 });
+*/
 
 export const metadata: Metadata = {
   title: "ukiyotech",
